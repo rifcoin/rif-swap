@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+#generated
+artifacts/
+cache/
+
+#npm
+package-lock*
